@@ -25,5 +25,6 @@ I make elegantly professional websites during the day
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aniirudh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aniirudh" /></a></p><br><br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhv98&" alt="anirudhv98" /></p>
