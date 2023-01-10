@@ -1,7 +1,7 @@
 
 # Hello there 👋,I'm Anirudh
 
-I make elegantly professional websites during the day    
+“Training is about skill development, not about winning or losing. You don’t need to win every battle, you only need to win the battles that count.” - John Danaher
 
 * 💻   Looking for Summer '23 SDE Internships.
 * 🧐   Interested in full stack development.
