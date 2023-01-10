@@ -6,7 +6,7 @@
 * 💻   Looking for Summer '23 SDE Internships.
 * 🧐   Interested in full stack development.
 * 💼   Used to be an Associate Software Engineer at Accenture, now I'm an ASU Student (Go SunDevils).
-* 🎓   Master of Science in Computer Science, B.E. in Information Technology. Major GPA 4.0/4.0, GPA 3.89/4.0.
+* 🎓   Master of Science in Computer Science, B.E. in Information Technology. Major GPA 4.0/4.0, Overall GPA 3.89/4.0.
 * 🌱   Currently learning JavaScript, Linux, React, & Data Structures.
 * 🤼   Train MMA at AZ Combat Sports,Tempe.
 * 🏃   Avid runner and powerlifter.
