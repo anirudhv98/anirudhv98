@@ -3,7 +3,7 @@
 
 “Training is about skill development, not about winning or losing. You don’t need to win every battle, you only need to win the battles that count.” - John Danaher
 
-* 💻   Looking for Summer '23 SDE Internships.
+* 💻   Looking for full-time opportunities starting May '24.
 * 🧐   Interested in full stack development.
 * 💼   Used to be an Associate Software Engineer at Accenture, now I'm an ASU Student (Go SunDevils).
 * 🎓   Master of Science in Computer Science, B.E. in Information Technology. Major GPA 4.0/4.0, Overall GPA 3.89/4.0.
