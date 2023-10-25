@@ -1,20 +1,5 @@
 
 # Hello there 👋,I'm Anirudh
-
-“Training is about skill development, not about winning or losing. You don’t need to win every battle, you only need to win the battles that count.” - John Danaher
-
-* 💻   Looking for full-time opportunities starting May '24.
-* 🧐   Interested in full stack development.
-* 💼   Used to be an Associate Software Engineer at Accenture, now I'm an ASU Student (Go SunDevils).
-* 🎓   Master of Science in Computer Science, B.E. in Information Technology. Major GPA 4.0/4.0, Overall GPA 3.89/4.0.
-* 🌱   Currently learning JavaScript, Linux, React, & Data Structures.
-* 🤼   Train MMA at AZ Combat Sports,Tempe.
-* 🏃   Avid runner and powerlifter.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://anii.hashnode.dev/)
-
-
-
-
 <h3>My LeetCode Stats</h3>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=anirudhvenky)](https://github.com/KnlnKS/leetcode-stats)
